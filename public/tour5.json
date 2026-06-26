@@ -1,0 +1,34 @@
+{
+  "id": "kandy-cultural",
+  "title": "Kandy Cultural Heritage",
+  "duration": "1 Day",
+  "location": "Kandy, Sri Lanka",
+  "shortDescription": "Visit the sacred Temple of the Tooth, stroll Kandy Lake and enjoy a traditional dance performance.",
+  "description": "Discover the hill capital of Sri Lanka on a one-day cultural immersion. Visit the UNESCO-listed Temple of the Tooth Relic, take a peaceful walk around Kandy Lake, explore the bustling Kandy Market and end the evening with a vibrant traditional Kandyan dance and drumming show.",
+  "heroImage": "/images/tours/ella.jpg",
+  "gallery": [
+    "/images/tours/ella.jpg",
+    "/images/tours/sigiriya.jpg",
+    "/images/hero.jpg"
+  ],
+  "pricing": [
+    { "label": "1 Adult", "price": 120 },
+    { "label": "2 Adults", "price": 210 },
+    { "label": "4 Adults", "price": 380 }
+  ],
+  "included": [
+    "Private air-conditioned transport",
+    "Licensed guide",
+    "Temple of the Tooth entrance fee",
+    "Traditional dance show ticket",
+    "Bottled water"
+  ],
+  "excluded": [
+    "Meals",
+    "Personal expenses",
+    "Tips"
+  ],
+  "itinerary": [
+    { "day": "Day 1", "details": "Morning pickup, Temple of the Tooth visit, Kandy Lake walk, market stroll, afternoon free, evening dance show, return transfer." }
+  ]
+}

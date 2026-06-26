@@ -1,0 +1,51 @@
+{
+  "id": "ella-adventure",
+  "title": "Ella Hill Country Adventure",
+  "duration": "2 Days / 1 Night",
+  "location": "Ella, Sri Lanka",
+  "shortDescription": "Ride the iconic blue train, hike Little Adam's Peak and soak in the misty hills of Ella.",
+  "description": "Escape into the misty hills of Sri Lanka on this two-day journey through Ella. Ride the world-famous Kandy-to-Ella blue train through endless tea plantations, walk across the legendary Nine Arches Bridge, hike Little Adam's Peak at sunrise, and chase waterfalls in the cool mountain air. A perfect blend of slow travel, soft adventure and breathtaking scenery.",
+  "heroImage": "/images/tours/ella.jpg",
+  "gallery": [
+    "/images/tours/ella.jpg",
+    "/images/hero.jpg",
+    "/images/tours/sigiriya.jpg"
+  ],
+  "pricing": [
+    {
+      "label": "1 Adult",
+      "price": 100
+    },
+    {
+      "label": "2 Adults",
+      "price": 320
+    },
+    {
+      "label": "4 Adults",
+      "price": 580
+    }
+  ],
+  "included": [
+    "Air-conditioned private transport",
+    "Professional English-speaking guide",
+    "1 night boutique hotel stay",
+    "Daily breakfast",
+    "Train tickets (Kandy – Ella)",
+    "All entrance fees"
+  ],
+  "excluded": [
+    "Lunch and dinner",
+    "Personal expenses",
+    "Tips and gratuities"
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "details": "Pickup from your hotel, scenic train ride to Ella, check in, sunset at Little Adam's Peak."
+    },
+    {
+      "day": "Day 2",
+      "details": "Sunrise hike, visit Nine Arches Bridge and Ravana Falls, return drop-off."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "yala-safari",
+  "title": "Yala Wildlife Safari",
+  "duration": "2 Days / 1 Night",
+  "location": "Yala National Park",
+  "shortDescription": "Track elusive leopards, elephants and over 200 bird species in Sri Lanka's most famous national park.",
+  "description": "Yala is home to the highest density of leopards in the world. Join expert naturalists on two full game drives in 4x4 safari jeeps, spot wild elephants, sloth bears, crocodiles and an incredible variety of birdlife, and stay at a luxury tented camp on the edge of the park.",
+  "heroImage": "/images/tours/yala.jpg",
+  "gallery": [
+    "/images/tours/yala.jpg",
+    "/images/tours/mirissa.jpg",
+    "/images/hero.jpg"
+  ],
+  "pricing": [
+    { "label": "1 Adult", "price": 240 },
+    { "label": "2 Adults", "price": 440 },
+    { "label": "4 Adults", "price": 820 }
+  ],
+  "included": [
+    "Private transport to/from Yala",
+    "Two game drives in 4x4 jeep",
+    "Park entrance fees",
+    "1 night luxury tented camp",
+    "All meals on safari",
+    "Naturalist guide"
+  ],
+  "excluded": [
+    "Alcoholic beverages",
+    "Personal expenses",
+    "Tips"
+  ],
+  "itinerary": [
+    { "day": "Day 1", "details": "Transfer to Yala, afternoon game drive, dinner at camp under the stars." },
+    { "day": "Day 2", "details": "Sunrise game drive, breakfast, return transfer to your hotel." }
+  ]
+}

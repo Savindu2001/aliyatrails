@@ -1,0 +1,37 @@
+{
+  "id": "sigiriya-cultural",
+  "title": "Sigiriya & Ancient Kingdoms",
+  "duration": "3 Days / 2 Nights",
+  "location": "Sigiriya & Dambulla",
+  "shortDescription": "Climb the Lion Rock fortress and explore the sacred cave temples of the Cultural Triangle.",
+  "description": "Step back in time across Sri Lanka's Cultural Triangle. Climb the 5th-century Sigiriya Rock Fortress at dawn, explore the painted cave temples of Dambulla, wander the ancient royal city of Polonnaruwa by bicycle, and end each day with traditional Sri Lankan cuisine under the stars.",
+  "heroImage": "/images/tours/sigiriya.jpg",
+  "gallery": [
+    "/images/tours/sigiriya.jpg",
+    "/images/hero.jpg",
+    "/images/tours/ella.jpg"
+  ],
+  "pricing": [
+    { "label": "1 Adult", "price": 290 },
+    { "label": "2 Adults", "price": 520 },
+    { "label": "4 Adults", "price": 940 }
+  ],
+  "included": [
+    "Private air-conditioned vehicle",
+    "Licensed cultural guide",
+    "2 nights heritage hotel stay",
+    "Daily breakfast & dinner",
+    "All site entrance fees",
+    "Bicycle rental in Polonnaruwa"
+  ],
+  "excluded": [
+    "Lunches",
+    "Personal expenses",
+    "Tips"
+  ],
+  "itinerary": [
+    { "day": "Day 1", "details": "Drive to Sigiriya, visit Dambulla Cave Temple, sunset at Pidurangala Rock." },
+    { "day": "Day 2", "details": "Early climb of Sigiriya Lion Rock, afternoon cycling in Polonnaruwa ancient city." },
+    { "day": "Day 3", "details": "Village tour, traditional lunch with a local family, return transfer." }
+  ]
+}

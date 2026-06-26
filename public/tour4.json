@@ -1,0 +1,35 @@
+{
+  "id": "mirissa-coastal",
+  "title": "Mirissa Beach & Whale Watching",
+  "duration": "2 Days / 1 Night",
+  "location": "Mirissa, Southern Coast",
+  "shortDescription": "Spot blue whales at dawn and unwind on the golden palm-lined beaches of Sri Lanka's south.",
+  "description": "Experience the warm Indian Ocean on Sri Lanka's stunning south coast. Set sail at sunrise to spot the world's largest creatures – blue whales and pods of spinner dolphins – then spend lazy afternoons swinging in coconut palms at Coconut Tree Hill, surfing in Weligama, and dining on fresh seafood by the waves.",
+  "heroImage": "/images/tours/mirissa.jpg",
+  "gallery": [
+    "/images/tours/mirissa.jpg",
+    "/images/hero.jpg",
+    "/images/tours/ella.jpg"
+  ],
+  "pricing": [
+    { "label": "1 Adult", "price": 210 },
+    { "label": "2 Adults", "price": 380 },
+    { "label": "4 Adults", "price": 700 }
+  ],
+  "included": [
+    "Private transport",
+    "1 night beachfront hotel",
+    "Daily breakfast",
+    "Whale watching boat tour",
+    "Surf board rental (1 hour)"
+  ],
+  "excluded": [
+    "Lunches and dinners",
+    "Personal expenses",
+    "Tips"
+  ],
+  "itinerary": [
+    { "day": "Day 1", "details": "Drive to Mirissa, sunset at Coconut Tree Hill, beachfront dinner (own cost)." },
+    { "day": "Day 2", "details": "Early morning whale watching cruise, free beach time, return transfer." }
+  ]
+}
