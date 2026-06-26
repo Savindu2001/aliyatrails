@@ -9,7 +9,7 @@ export const config = {
   facebook: import.meta.env.VITE_FACEBOOK ?? "#",
   instagram: import.meta.env.VITE_INSTAGRAM ?? "#",
   siteUrl: import.meta.env.VITE_SITE_URL ?? "https://aliyatrails.netlify.app",
-  devUrl: import.meta.env.VITE_DEV_URL ?? "http://localhost:8080",
+  devUrl: import.meta.env.VITE_DEV_URL ?? "http://localhost:5173",
 };
 
 export function siteUrl(path = "") {
